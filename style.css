@@ -1,0 +1,223 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Manrope:wght@200..800&display=swap');
+*{
+      font-family: "Bebas Neue", "Manrope", sans-serif;
+}
+nav{
+    margin: 24px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-color: #0A0A0A;
+    color: #FFFFFF;
+}
+li{
+    display: inline;
+    list-style: none;
+    margin-right: 50px;
+    font-size: 20px;
+
+}
+.sa{
+    font-size: 32px;
+    color: #c7c7c7;
+}
+ul{
+
+}
+ul li{
+    list-style: none;
+    margin-right: 30px;
+}
+ul li a{
+    font-family:"Manrope";
+    text-decoration: none;
+    color: #c7c7c7;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 100px 80px;
+}
+h11{
+    font-weight: 400;
+    font-size: 101px;
+}
+.iimmg{
+    border-radius: 16px;
+}
+.hh1{
+    font-weight:400 ;
+    font-size: 76px;
+}
+.discription{
+    font-size: 18px;
+    font-family:Manrope;
+}
+.praimary{
+    background-color: #D3E97A;
+    color: #0A0A0A;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 100px;
+    padding: 15px;
+}
+.iconsoratehobe{
+    margin-left: 15px;
+}
+.iconoflink{
+    padding: 15px;
+    background-color: #222222;
+    border-radius: 100px;
+    color: #D3E97A;
+}
+.heeader{
+    margin-left: 100px;
+}
+.boxxx{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    padding: 50px;    
+}
+.boxx{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    padding: 50px;
+}
+.boxxxx{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    padding: 50px;
+}
+.headingtag{
+    font-size: 32px;
+    font-weight: 500;
+    font-family:Manrope;
+    color: #FFFFFF;
+}
+.bbuton{
+    font-family:Manrope;
+    font-weight: 500; 
+    font-size: 14px;
+    border-radius: 100px;
+    color: #FFFFFF;
+    background-color: #0A0A0A;
+    margin-top: 20px;
+    border: none;
+    margin-left: 20px;
+}
+.divbox{
+    margin-top: 60px;
+}
+.iim{
+    margin-top: 80px;
+}
+.design{
+    padding: 32px;
+}
+.divbox1{
+    height: 600px;
+    width: 550px;
+    background-color: #c7c7c71A;
+    border-radius: 16px;
+}
+.headingtagg{
+    font-family:Manrope;
+    font-weight: 400; 
+    font-size: 18px;
+    color: #c7c7c7;
+}
+.ccc{
+    font-weight: 600;
+    font-size: 16px;
+    font-family:Manrope;
+    color: #FFFFFF;
+}
+    .cc{
+    display: flex;
+    justify-content: space-between;
+}
+.bb{
+    margin-top: 30px;
+    color: #D3E97A;
+    background-color: #0A0A0A;
+    border-bottom:1px solid #D3E97A ;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    padding: 10px;
+    margin-right: 20px;
+}
+.hr{
+    color: #484848;
+}
+.aboutt{
+    font-weight: 400;
+    font-size: 101px;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+    .ddi{
+margin-top: 100px;
+margin-bottom: 300px;
+    }
+.footer{
+display: flex;
+justify-content: space-between;
+margin-left: 200px;
+margin-right: 100px;
+margin-top: 50px;
+margin-bottom: 100px;
+}
+.label{
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.input{
+    margin-top: 50px;
+}
+.iconoflinkk{
+    color: #D3E97A;
+    margin-right: 20px;
+}
+.name{
+    color: #FFFFFF;
+    background-color: #1A1A1A;
+    border: none;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 400;
+}
+#message{
+    background-color: #1A1A1A;
+    border: none; 
+    padding: 50px;
+    font-family:Manrope;
+}
+.aa{
+    margin-top: 250px;
+}
+.praiimary{
+    background-color: #D3E97A;
+    color: #0A0A0A;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 100px;
+    padding: 20px 40px; 
+}
